@@ -1,0 +1,7 @@
+__pycache__
+.virtual_documents
+.vscode
+data
+logs
+run_shell
+run.sh
